@@ -1,0 +1,38 @@
+
+.cardBody{
+    object-fit:cover;
+    aspect-ratio:1/.7;
+    background-color:rgb(220, 220, 220);
+}
+
+.card-text{
+    color: #000000;
+}
+
+.card-body{
+    background-color: rgb(220, 220, 220);
+ }
+
+.card-img-top{
+    background-color: rgb(240, 240, 240);
+}
+
+.dark-mode {
+    background-color: #1e2325;
+}
+
+.btn-secondary{
+    background-color: rgb(238, 24, 9);
+    border: none;
+}
+
+.form-check-label{
+      color: #fff;
+}
+
+.list-group-item{
+      background-color: rgb(1, 40, 148);
+      color:rgb(255, 255, 255);
+      font-size: large;
+      font-weight: 450;
+}
